@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/LeaseOperation",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "aleks",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
